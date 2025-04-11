@@ -1,0 +1,408 @@
+[
+    {
+        "lineShortName": "A1",
+        "lineId_general": 11149,
+        "routes": [
+            {
+                "journeyId": 101,
+                "journeyName": "Entrexardins-Cambre-Os Campons",
+                "routeLineId": 11149
+            },
+            {
+                "journeyId": 101,
+                "journeyName": "Os Campons-Cambre-Entrexardins",
+                "routeLineId": 11176
+            }
+        ]
+    },
+    {
+        "lineShortName": "A4",
+        "lineId_general": 11112,
+        "routes": [
+            {
+                "journeyId": 202,
+                "journeyName": "Aeroporto-Hospital xOBRAS",
+                "routeLineId": 11112
+            },
+            {
+                "journeyId": 102,
+                "journeyName": "Hospital-Aeroporto xOBRAS",
+                "routeLineId": 11112
+            }
+        ]
+    },
+    {
+        "lineShortName": "A5",
+        "lineId_general": 11113,
+        "routes": [
+            {
+                "journeyId": 101,
+                "journeyName": "A Ponte Lago-Entrexardins",
+                "routeLineId": 11160
+            },
+            {
+                "journeyId": 101,
+                "journeyName": "Entrexardins-A Ponte Lago",
+                "routeLineId": 11113
+            }
+        ]
+    },
+    {
+        "lineShortName": "A6",
+        "lineId_general": 11134,
+        "routes": [
+            {
+                "journeyId": 101,
+                "journeyName": "Entrexardins-Sta.Maria de Vigo",
+                "routeLineId": 11134
+            },
+            {
+                "journeyId": 101,
+                "journeyName": "Sta.Maria de Vigo-Entresardins",
+                "routeLineId": 11167
+            }
+        ]
+    },
+    {
+        "lineShortName": "A9",
+        "lineId_general": 11135,
+        "routes": [
+            {
+                "journeyId": 101,
+                "journeyName": "Entrexardins-Tarrio",
+                "routeLineId": 11135
+            },
+            {
+                "journeyId": 101,
+                "journeyName": "Tarrio-Entrexardins",
+                "routeLineId": 11168
+            }
+        ]
+    },
+    {
+        "lineShortName": "A10",
+        "lineId_general": 11178,
+        "routes": [
+            {
+                "journeyId": 101,
+                "journeyName": "Cañas-Carral Panteon-Entrex",
+                "routeLineId": 11179
+            },
+            {
+                "journeyId": 101,
+                "journeyName": "Entrexardins-Carral Panteon-Ca",
+                "routeLineId": 11178
+            }
+        ]
+    },
+    {
+        "lineShortName": "B1",
+        "lineId_general": 11101,
+        "routes": [
+            {
+                "journeyId": 101,
+                "journeyName": "Entrexardins-San Pedro de Nos",
+                "routeLineId": 11151
+            },
+            {
+                "journeyId": 103,
+                "journeyName": "Entrexardins-San Pedro de Nos",
+                "routeLineId": 11151
+            },
+            {
+                "journeyId": 101,
+                "journeyName": "San Pedro de Nos-Entrexardins",
+                "routeLineId": 11101
+            },
+            {
+                "journeyId": 103,
+                "journeyName": "San Pedro de Nos-Entrexardins",
+                "routeLineId": 11101
+            }
+        ]
+    },
+    {
+        "lineShortName": "B3",
+        "lineId_general": 11102,
+        "routes": [
+            {
+                "journeyId": 102,
+                "journeyName": "Entrexardins-Piñeiro Piscina",
+                "routeLineId": 11152
+            },
+            {
+                "journeyId": 102,
+                "journeyName": "Piñeiro Piscina-Entrexardins",
+                "routeLineId": 11102
+            }
+        ]
+    },
+    {
+        "lineShortName": "B4",
+        "lineId_general": 11126,
+        "routes": [
+            {
+                "journeyId": 101,
+                "journeyName": "Entrexardins-Soñeiro",
+                "routeLineId": 11163
+            },
+            {
+                "journeyId": 101,
+                "journeyName": "Soñeiro-Entrexardins",
+                "routeLineId": 11126
+            }
+        ]
+    },
+    {
+        "lineShortName": "B5",
+        "lineId_general": 11127,
+        "routes": [
+            {
+                "journeyId": 101,
+                "journeyName": "Entrexardins-Pousada 2",
+                "routeLineId": 11164
+            },
+            {
+                "journeyId": 101,
+                "journeyName": "Posada 2-Entrexardins",
+                "routeLineId": 11127
+            }
+        ]
+    },
+    {
+        "lineShortName": "B6",
+        "lineId_general": 11103,
+        "routes": [
+            {
+                "journeyId": 101,
+                "journeyName": "Entrexardins-H.Sada",
+                "routeLineId": 11153
+            },
+            {
+                "journeyId": 101,
+                "journeyName": "H.Sada-Entrexardins",
+                "routeLineId": 11103
+            },
+            {
+                "journeyId": 102,
+                "journeyName": "H.Sada-Entrexardins",
+                "routeLineId": 11103
+            },
+            {
+                "journeyId": 103,
+                "journeyName": "H.Sada-Entrexardins",
+                "routeLineId": 11103
+            }
+        ]
+    },
+    {
+        "lineShortName": "B8",
+        "lineId_general": 11104,
+        "routes": [
+            {
+                "journeyId": 101,
+                "journeyName": "Entrexardins-H.Sada",
+                "routeLineId": 11154
+            },
+            {
+                "journeyId": 101,
+                "journeyName": "H.Sada-Entrexardins",
+                "routeLineId": 11104
+            }
+        ]
+    },
+    {
+        "lineShortName": "B9",
+        "lineId_general": 11107,
+        "routes": [
+            {
+                "journeyId": 103,
+                "journeyName": "Entrexardins-Lorbe",
+                "routeLineId": 11155
+            },
+            {
+                "journeyId": 103,
+                "journeyName": "Lorbe-Entrexardins",
+                "routeLineId": 11107
+            }
+        ]
+    },
+    {
+        "lineShortName": "B13",
+        "lineId_general": 11109,
+        "routes": [
+            {
+                "journeyId": 101,
+                "journeyName": "Entrexardins-Porto-Sada",
+                "routeLineId": 11157
+            },
+            {
+                "journeyId": 101,
+                "journeyName": "Sada-Porto-Entrexardins",
+                "routeLineId": 11109
+            }
+        ]
+    },
+    {
+        "lineShortName": "B14",
+        "lineId_general": 11158,
+        "routes": [
+            {
+                "journeyId": 101,
+                "journeyName": "Entrexardins-Carnoedo-Sada",
+                "routeLineId": 11158
+            }
+        ]
+    },
+    {
+        "lineShortName": "B20",
+        "lineId_general": 11180,
+        "routes": [
+            {
+                "journeyId": 101,
+                "journeyName": "Entrexardins-Piñeiro Piscina",
+                "routeLineId": 11180
+            }
+        ]
+    },
+    {
+        "lineShortName": "B22",
+        "lineId_general": 11184,
+        "routes": [
+            {
+                "journeyId": 101,
+                "journeyName": "TARRIO-CELAS-PEIRO-ORRO-ENTREX",
+                "routeLineId": 11184
+            }
+        ]
+    },
+    {
+        "lineShortName": "B23",
+        "lineId_general": 11185,
+        "routes": [
+            {
+                "journeyId": 101,
+                "journeyName": "ENTREX-ORRO-PEIRO-CELAS-TARRIO",
+                "routeLineId": 11185
+            }
+        ]
+    },
+    {
+        "lineShortName": "C1",
+        "lineId_general": 11116,
+        "routes": [
+            {
+                "journeyId": 101,
+                "journeyName": "A Silva-Entrexardins",
+                "routeLineId": 11161
+            },
+            {
+                "journeyId": 101,
+                "journeyName": "Entrexardins-A Silva",
+                "routeLineId": 11116
+            }
+        ]
+    },
+    {
+        "lineShortName": "D1",
+        "lineId_general": 11119,
+        "routes": [
+            {
+                "journeyId": 201,
+                "journeyName": "Tabeaio-Uni.Laboral",
+                "routeLineId": 11119
+            },
+            {
+                "journeyId": 101,
+                "journeyName": "Uni.Laboral-Tabeaio",
+                "routeLineId": 11119
+            }
+        ]
+    },
+    {
+        "lineShortName": "D2",
+        "lineId_general": 11142,
+        "routes": [
+            {
+                "journeyId": 102,
+                "journeyName": "A Barcala-Polig.-Arteixo",
+                "routeLineId": 11142
+            },
+            {
+                "journeyId": 202,
+                "journeyName": "Arteixo-Polig.-A Barcala",
+                "routeLineId": 11142
+            }
+        ]
+    },
+    {
+        "lineShortName": "D7",
+        "lineId_general": 11105,
+        "routes": [
+            {
+                "journeyId": 201,
+                "journeyName": "Betanzos-H.Sada",
+                "routeLineId": 11106
+            },
+            {
+                "journeyId": 101,
+                "journeyName": "H.Sada-Betanzos",
+                "routeLineId": 11105
+            }
+        ]
+    },
+    {
+        "lineShortName": "D10",
+        "lineId_general": 11228,
+        "routes": [
+            {
+                "journeyId": 101,
+                "journeyName": "Concello de Sada - Lorbe",
+                "routeLineId": 11228
+            },
+            {
+                "journeyId": 101,
+                "journeyName": "Lorbe - Concello de Sada",
+                "routeLineId": 11229
+            }
+        ]
+    },
+    {
+        "lineShortName": "L101",
+        "lineId_general": 11208,
+        "routes": [
+            {
+                "journeyId": 101,
+                "journeyName": "Plaza Galicia-Entrexardins",
+                "routeLineId": 11208
+            }
+        ]
+    },
+    {
+        "lineShortName": "L103",
+        "lineId_general": 11210,
+        "routes": [
+            {
+                "journeyId": 101,
+                "journeyName": "A patiña-A Barcala-Universidad",
+                "routeLineId": 11210
+            }
+        ]
+    },
+    {
+        "lineShortName": "5004",
+        "lineId_general": 11194,
+        "routes": [
+            {
+                "journeyId": 101,
+                "journeyName": "O Burgo-Peiro Canteiro",
+                "routeLineId": 11194
+            },
+            {
+                "journeyId": 201,
+                "journeyName": "Peiro Canteiro-O Burgo",
+                "routeLineId": 11194
+            }
+        ]
+    }
+]

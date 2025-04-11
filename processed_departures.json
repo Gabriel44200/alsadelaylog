@@ -1,0 +1,135 @@
+[
+    {
+        "scheduled_time": "06:45:00",
+        "real_pass_time": "N/A",
+        "line_name": "B1 ENTREXARDÍNS-SAN PEDRO DE NÓS",
+        "line_short_name": "B1",
+        "destination": "SAN PEDRO DE NOS"
+    },
+    {
+        "scheduled_time": "07:20:00",
+        "real_pass_time": "N/A",
+        "line_name": "B1 ENTREXARDÍNS-SAN PEDRO DE NÓS",
+        "line_short_name": "B1",
+        "destination": "SAN PEDRO DE NOS"
+    },
+    {
+        "scheduled_time": "07:45:00",
+        "real_pass_time": "N/A",
+        "line_name": "B1 ENTREXARDÍNS-SAN PEDRO DE NÓS",
+        "line_short_name": "B1",
+        "destination": "SAN PEDRO DE NOS"
+    },
+    {
+        "scheduled_time": "08:00:00",
+        "real_pass_time": "N/A",
+        "line_name": "B1 ENTREXARDÍNS-SAN PEDRO DE NÓS",
+        "line_short_name": "B1",
+        "destination": "SAN PEDRO DE NOS"
+    },
+    {
+        "scheduled_time": "08:30:00",
+        "real_pass_time": "N/A",
+        "line_name": "B1 ENTREXARDÍNS-SAN PEDRO DE NÓS",
+        "line_short_name": "B1",
+        "destination": "SAN PEDRO DE NOS"
+    },
+    {
+        "scheduled_time": "09:00:00",
+        "real_pass_time": "N/A",
+        "line_name": "B1 ENTREXARDÍNS-SAN PEDRO DE NÓS",
+        "line_short_name": "B1",
+        "destination": "SAN PEDRO DE NOS"
+    },
+    {
+        "scheduled_time": "09:30:00",
+        "real_pass_time": "N/A",
+        "line_name": "B1 ENTREXARDÍNS-SAN PEDRO DE NÓS",
+        "line_short_name": "B1",
+        "destination": "SAN PEDRO DE NOS"
+    },
+    {
+        "scheduled_time": "10:00:00",
+        "real_pass_time": "N/A",
+        "line_name": "B1 ENTREXARDÍNS-SAN PEDRO DE NÓS",
+        "line_short_name": "B1",
+        "destination": "SAN PEDRO DE NOS"
+    },
+    {
+        "scheduled_time": "10:30:00",
+        "real_pass_time": "N/A",
+        "line_name": "B1 ENTREXARDÍNS-SAN PEDRO DE NÓS",
+        "line_short_name": "B1",
+        "destination": "SAN PEDRO DE NOS"
+    },
+    {
+        "scheduled_time": "11:00:00",
+        "real_pass_time": "N/A",
+        "line_name": "B1 ENTREXARDÍNS-SAN PEDRO DE NÓS",
+        "line_short_name": "B1",
+        "destination": "SAN PEDRO DE NOS"
+    },
+    {
+        "scheduled_time": "11:30:00",
+        "real_pass_time": "N/A",
+        "line_name": "B1 ENTREXARDÍNS-SAN PEDRO DE NÓS",
+        "line_short_name": "B1",
+        "destination": "SAN PEDRO DE NOS"
+    },
+    {
+        "scheduled_time": "12:00:00",
+        "real_pass_time": "N/A",
+        "line_name": "B1 ENTREXARDÍNS-SAN PEDRO DE NÓS",
+        "line_short_name": "B1",
+        "destination": "SAN PEDRO DE NOS"
+    },
+    {
+        "scheduled_time": "12:30:00",
+        "real_pass_time": "N/A",
+        "line_name": "B1 ENTREXARDÍNS-SAN PEDRO DE NÓS",
+        "line_short_name": "B1",
+        "destination": "SAN PEDRO DE NOS"
+    },
+    {
+        "scheduled_time": "13:00:00",
+        "real_pass_time": "N/A",
+        "line_name": "B1 ENTREXARDÍNS-SAN PEDRO DE NÓS",
+        "line_short_name": "B1",
+        "destination": "SAN PEDRO DE NOS"
+    },
+    {
+        "scheduled_time": "13:30:00",
+        "real_pass_time": "N/A",
+        "line_name": "B1 ENTREXARDÍNS-SAN PEDRO DE NÓS",
+        "line_short_name": "B1",
+        "destination": "SAN PEDRO DE NOS"
+    },
+    {
+        "scheduled_time": "14:00:00",
+        "real_pass_time": "N/A",
+        "line_name": "B1 ENTREXARDÍNS-SAN PEDRO DE NÓS",
+        "line_short_name": "B1",
+        "destination": "SAN PEDRO DE NOS"
+    },
+    {
+        "scheduled_time": "14:30:00",
+        "real_pass_time": "N/A",
+        "line_name": "B1 ENTREXARDÍNS-SAN PEDRO DE NÓS",
+        "line_short_name": "B1",
+        "destination": "SAN PEDRO DE NOS"
+    },
+    {
+        "scheduled_time": "15:00:00",
+        "real_pass_time": "N/A",
+        "line_name": "B1 ENTREXARDÍNS-SAN PEDRO DE NÓS",
+        "line_short_name": "B1",
+        "destination": "SAN PEDRO DE NOS"
+    },
+    {
+        "scheduled_time": "15:30:00",
+        "real_pass_time": "N/A",
+        "line_name": "B1 ENTREXARDÍNS-SAN PEDRO DE NÓS",
+        "line_short_name": "B1",
+        "destination": "SAN PEDRO DE NOS"
+    }
+]
